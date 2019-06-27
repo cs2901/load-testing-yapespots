@@ -2,12 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2bd6da-6123-4700-bda9-59a8fa50e838" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_api_common_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_1_29_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_1_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_grpc_1_45_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_httpjson_0_62_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_translate_v3beta1_0_61_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_iam_v1_0_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_translate_v2_rev20170525_1_28_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_credentials_0_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_oauth2_http_0_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_1_78_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_grpc_1_78_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_http_1_78_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_translate_1_78_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_30_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_appengine_1_30_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_30_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_29_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_alts_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_auth_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_grpclb_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_http_util_0_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_android.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cs2019.translator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cs2019.translator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/calculator/business/TranslatorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/business/TranslatorImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/calculator/test/TranslatorImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/test/TranslatorImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculator/business/TranslatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculator/business/TranslatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculator/test/TranslatorImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/calculator/test/TranslatorImplTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,31 +64,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/business/TranslatorImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="162" column="9" selection-start-line="162" selection-start-column="9" selection-end-line="162" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-14">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -65,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/test/TranslatorImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="52" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="52" />
+            <state relative-caret-position="275">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2034">
-              <caret line="113" selection-start-line="113" selection-end-line="113" />
+            <state relative-caret-position="28">
+              <caret line="106" column="37" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -174,12 +205,12 @@
         <option value="$PROJECT_DIR$/src/main/java/data/entities/ConsumoFinancials.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/Translator.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/test/TranslatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/entities/Language.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/test/TranslatorImplTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculator/business/TranslatorImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculator/business/TranslatorImpl.java" />
       </list>
     </option>
   </component>
@@ -191,10 +222,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="30" />
-    <option name="y" value="23" />
-    <option name="width" value="1250" />
-    <option name="height" value="724" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -202,6 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,7 +279,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -268,6 +298,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -319,6 +350,9 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="GOOGLE_API_KEY" value="AIzaSyAmnCp4FOLh1uFN_EK1e2MIRx-BF-O8X_8" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="calculator.Main" />
       <module name="cs2019.translator" />
       <extension name="coverage">
@@ -489,24 +523,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TranslatorImplTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="cs2019.translator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculator.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="calculator.test" />
-      <option name="MAIN_CLASS_NAME" value="calculator.test.TranslatorImplTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TranslatorImplTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="cs2019.translator" />
       <extension name="coverage">
@@ -515,28 +531,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="calculator.test" />
       <option name="MAIN_CLASS_NAME" value="calculator.test.TranslatorImplTest" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TranslatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="cs2019.translator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculator.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="calculator.test" />
-      <option name="MAIN_CLASS_NAME" value="calculator.test.TranslatorTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="GOOGLE_API_KEY" value="AIzaSyAmnCp4FOLh1uFN_EK1e2MIRx-BF-O8X_8" />
+      </envs>
       <properties />
       <listeners />
       <method v="2">
@@ -573,16 +582,12 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Spring Boot.ServiceApplication" />
-      <item itemvalue="TestNG.TranslatorTest" />
       <item itemvalue="TestNG.TranslatorImplTest" />
-      <item itemvalue="TestNG.TranslatorImplTest (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TranslatorImplTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="TestNG.TranslatorImplTest (1)" />
-        <item itemvalue="TestNG.TranslatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -614,51 +619,53 @@
       <workItem from="1558964892481" duration="414000" />
       <workItem from="1561350972545" duration="1591000" />
       <workItem from="1561352611010" duration="1041000" />
-      <workItem from="1561386937885" duration="1523000" />
+      <workItem from="1561386937885" duration="2665000" />
+      <workItem from="1561389903812" duration="323000" />
+      <workItem from="1561390406729" duration="1393000" />
+      <workItem from="1561648618645" duration="972000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TranslatorImplTest - 2019.06.24 at 00h 15m 41s.xml">
+    <history-entry file="TranslatorImplTest - 2019.06.24 at 10h 19m 52s.xml">
       <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TranslatorImplTest - 2019.06.24 at 00h 16m 32s.xml">
+    <history-entry file="TranslatorImplTest_(2) - 2019.06.24 at 10h 25m 43s.xml">
+      <configuration name="TranslatorImplTest (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TranslatorImplTest_(3) - 2019.06.24 at 10h 42m 23s.xml">
+      <configuration name="TranslatorImplTest (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TranslatorImplTest_(4) - 2019.06.24 at 10h 43m 15s.xml">
+      <configuration name="TranslatorImplTest (4)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TranslatorImplTest - 2019.06.24 at 10h 43m 32s.xml">
       <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TranslatorImplTest - 2019.06.24 at 00h 17m 05s.xml">
+    <history-entry file="TranslatorImplTest - 2019.06.24 at 10h 45m 02s.xml">
       <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TranslatorImplTest - 2019.06.24 at 00h 19m 09s.xml">
+    <history-entry file="TranslatorImplTest - 2019.06.24 at 10h 46m 51s.xml">
       <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TranslatorImplTest - 2019.06.24 at 00h 21m 00s.xml">
+    <history-entry file="TranslatorImplTest - 2019.06.27 at 10h 19m 49s.xml">
       <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TranslatorTest - 2019.06.24 at 00h 08m 25s.xml">
-      <configuration name="TranslatorTest" configurationId="TestNG" />
+    <history-entry file="TranslatorImplTest - 2019.06.27 at 10h 31m 02s.xml">
+      <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TranslatorTest - 2019.06.24 at 00h 09m 07s.xml">
-      <configuration name="TranslatorTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TranslatorTest - 2019.06.24 at 00h 14m 43s.xml">
-      <configuration name="TranslatorTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TranslatorImplTest_(1) - 2019.06.24 at 09h 56m 59s.xml">
-      <configuration name="TranslatorImplTest (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TranslatorImplTest - 2019.06.24 at 09h 57m 49s.xml">
+    <history-entry file="TranslatorImplTest - 2019.06.27 at 10h 31m 51s.xml">
       <configuration name="TranslatorImplTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153921000" />
+    <option name="totallyTimeSpent" value="157751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2099359" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17094018" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -666,13 +673,11 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Designer" order="7" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32668713" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3267544" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40570176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -680,8 +685,10 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49668875" weight="0.3227848" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49668875" weight="0.3223684" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -693,6 +700,7 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Properties" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2976" />
@@ -737,7 +745,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/controller/ConsumidorController.java</url>
           <line>41</line>
-          <properties class="controller.ConsumidorController" method="newCustomer">
+          <properties class="controller.ConsumidorController">
             <option name="EMULATED" value="true" />
           </properties>
         </line-breakpoint>
@@ -755,8 +763,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/repositories/FormulaMedidorRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/entities/Cargo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/data/repositories/CargoRepository.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/init.sql" />
@@ -806,6 +812,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/test/TranslatorTest.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="212" column="25" selection-start-line="212" selection-start-column="25" selection-end-line="212" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-translate/1.78.0/google-cloud-translate-1.78.0.jar!/com/google/cloud/translate/TranslateOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="64" column="11" selection-start-line="64" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/business/Translator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -815,18 +846,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2034">
-          <caret line="113" selection-start-line="113" selection-end-line="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/test/TranslatorImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="52" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="28">
+          <caret line="106" column="37" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -849,18 +870,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/business/TranslatorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="162" column="9" selection-start-line="162" selection-start-column="9" selection-end-line="162" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-14">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/test/TranslatorImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        <state relative-caret-position="275">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
